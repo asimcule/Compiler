@@ -21,13 +21,15 @@ This compiler is primarily focused on the **scanning** and **parsing** phases of
 
 ## 🚀 Output
 
-The compiler emits **RISC-V assembly**, which can be assembled and run using RISC-V emulators or simulators. Code generation is under active development.
+The compiler emits **RISC-V assembly**, which can be assembled and run using RISC-V emulators or simulators. 
 
 ## 📦 Features (Implemented)
 
 - [x] Lexical analysis (scanner)
 - [x] Parsing to AST
 - [x] Symbol table management
+
+Note: Actively working on it so it might still have some bugs 
 
 
 
